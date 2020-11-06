@@ -8,14 +8,12 @@ let botNames = "Zbyszek"; // Imię
 const $botQuestion = [ // Lista pytań
     "co robisz",
     "siema",
-    "lubisz w dupe",
     "kim jest zbyszek"
 ]
 
 const $botAnswer = [ // Lista odpowiedzi
     ["Zabawiam sie z Twoja mamuśką.", "Podziwiam spawn mc by Zbyszku"],
-    ["Nara kiepie", "Spierdalaj", "O co Ci chodzi?"],
-    ["Lubie pchać w dupe KillThem"],
+    ["Nara kiepie", "O co Ci chodzi?"],
     ["Zbyszek jest legendą gpp", "Zbyszek to budowniczy minecraft", "Zbyszek to przyszły prezydent."]
 ]
 
